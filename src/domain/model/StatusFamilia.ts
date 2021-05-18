@@ -1,0 +1,6 @@
+export enum StatusFamilia {
+    CADASTRO_VALIDO = '0',
+    JA_POSSUI_UMA_CASA = '1',
+    SELECIONADA_EM_OUTRO_PROCESSO_DE_SELECAO = '2',
+    CADASTRO_INCOMPLETO = '3',
+}
